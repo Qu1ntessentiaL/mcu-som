@@ -224,23 +224,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=STM32F7-SOM.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=SOM-connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEHNKPNO
 
-[Document13]
+[Document12]
 DocumentPath=STM32F7-SOM-OLD.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=SOM-connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,177 +274,211 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=RMII.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGTXCSMY
+
+[Document15]
+DocumentPath=RMII.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=УтвердилДата
-Value=
+Name=DesignName
+Value=FP01-01
 
 [Parameter2]
-Name=Утвердил
-Value=Кадыров
+Name=Revision
+Value=1
 
 [Parameter3]
-Name=ТипДокумента2
-Value=Монтажная схема
+Name=Графа14
+Value=
 
 [Parameter4]
-Name=ТипДокумента1
-Value=Схема электрическая принципиальная
+Name=Графа15
+Value=
 
 [Parameter5]
-Name=ТехнологДата
+Name=Графа16
 Value=
 
 [Parameter6]
-Name=Технолог
-Value=Терехов
+Name=Графа19
+Value=
 
 [Parameter7]
-Name=РазработалДата
+Name=Графа20
 Value=
 
 [Parameter8]
-Name=Разработал
-Value=Валиуллин
+Name=Графа21
+Value=
 
 [Parameter9]
-Name=ПроверилДата
+Name=Графа22
 Value=
 
 [Parameter10]
-Name=Проверил
-Value=Кадыров
+Name=Графа23
+Value=
 
 [Parameter11]
-Name=ПервичноеПрименение
-Value=ВС01
+Name=Графа24
+Value=
 
 [Parameter12]
-Name=Обозначение2
-Value=="DesignName"+"-5"+"Revision"+"2"
+Name=Графа28
+Value=
 
 [Parameter13]
-Name=Обозначение1
-Value=="DesignName"+"-5"+"Revision"+"1"
+Name=Графа29
+Value=
 
 [Parameter14]
-Name=НормоконтрольДата
+Name=ДолжностьНачальникаОтдела
 Value=
 
 [Parameter15]
-Name=Нормоконтроль
+Name=ИзвещениеДата
 Value=
 
 [Parameter16]
-Name=НачальникОтделаДата
-Value=
+Name=Компания
+Value=Eleps
 
 [Parameter17]
-Name=НачальникОтдела
+Name=Компания1
 Value=
 
 [Parameter18]
-Name=Наименование2
+Name=Компания2
 Value=
 
 [Parameter19]
-Name=Наименование1
-Value=
+Name=Литера1
+Value=A
 
 [Parameter20]
-Name=Наименование
-Value=Плата лицевой панели
+Name=Литера2
+Value=
 
 [Parameter21]
-Name=Масштаб
-Value=1:1
+Name=Литера3
+Value=
 
 [Parameter22]
 Name=Масса
 Value=
 
 [Parameter23]
-Name=Литера3
-Value=
+Name=Масштаб
+Value=1:1
 
 [Parameter24]
-Name=Литера2
-Value=
+Name=Наименование
+Value=Плата лицевой панели
 
 [Parameter25]
-Name=Литера1
-Value=A
+Name=Наименование1
+Value=
 
 [Parameter26]
-Name=Компания2
+Name=Наименование2
 Value=
 
 [Parameter27]
-Name=Компания1
+Name=НачальникОтдела
 Value=
 
 [Parameter28]
-Name=Компания
-Value=Eleps
+Name=НачальникОтделаДата
+Value=
 
 [Parameter29]
-Name=ИзвещениеДата
+Name=Нормоконтроль
 Value=
 
 [Parameter30]
-Name=ДолжностьНачальникаОтдела
+Name=НормоконтрольДата
 Value=
 
 [Parameter31]
-Name=Графа29
-Value=
+Name=Обозначение1
+Value=="DesignName"+"-5"+"Revision"+"1"
 
 [Parameter32]
-Name=Графа28
-Value=
+Name=Обозначение2
+Value=="DesignName"+"-5"+"Revision"+"2"
 
 [Parameter33]
-Name=Графа24
-Value=
+Name=ПервичноеПрименение
+Value=ВС01
 
 [Parameter34]
-Name=Графа23
-Value=
+Name=Проверил
+Value=Кадыров
 
 [Parameter35]
-Name=Графа22
+Name=ПроверилДата
 Value=
 
 [Parameter36]
-Name=Графа21
-Value=
+Name=Разработал
+Value=Валиуллин
 
 [Parameter37]
-Name=Графа20
+Name=РазработалДата
 Value=
 
 [Parameter38]
-Name=Графа19
-Value=
+Name=Технолог
+Value=Терехов
 
 [Parameter39]
-Name=Графа16
+Name=ТехнологДата
 Value=
 
 [Parameter40]
-Name=Графа15
-Value=
+Name=ТипДокумента1
+Value=Схема электрическая принципиальная
 
 [Parameter41]
-Name=Графа14
-Value=
+Name=ТипДокумента2
+Value=Монтажная схема
 
 [Parameter42]
-Name=Revision
-Value=1
+Name=Утвердил
+Value=Кадыров
 
 [Parameter43]
-Name=DesignName
-Value=FP01-01
+Name=УтвердилДата
+Value=
 
 [Configuration1]
 Name=Sources
@@ -1444,38 +1461,54 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\DJFYYVKJ
-DocumentName0=SDRAM_32_BGA.SchDoc
+UniqueIDPath0=\OZUWCFPC
+DocumentName0=QSPI.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=11
+Order0=13
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\JXEQKDHZ
-DocumentName1=SOM-connectors.SchDoc
+UniqueIDPath1=\LQSZPCUF
+DocumentName1=RMII.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=12
+Order1=14
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\RIQSKGBZ
-DocumentName2=STM32F7.SchDoc
+UniqueIDPath2=\DJFYYVKJ
+DocumentName2=SDRAM_32_BGA.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=8
+Order2=11
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=
-DocumentName3=Top.SchDoc
+UniqueIDPath3=\JXEQKDHZ
+DocumentName3=SOM-connectors.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=9
+Order3=12
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
+UniqueIDPath4=\RIQSKGBZ
+DocumentName4=STM32F7.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=8
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=
+DocumentName5=Top.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=9
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
 
 [PrjClassGen]
 CompClassManualEnabled=0
