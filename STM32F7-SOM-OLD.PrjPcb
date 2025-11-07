@@ -309,176 +309,176 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=DesignName
-Value=FP01-01
+Name=УтвердилДата
+Value=
 
 [Parameter2]
-Name=Revision
-Value=1
+Name=Утвердил
+Value=Кадыров
 
 [Parameter3]
-Name=Графа14
-Value=
+Name=ТипДокумента2
+Value=Монтажная схема
 
 [Parameter4]
-Name=Графа15
-Value=
+Name=ТипДокумента1
+Value=Схема электрическая принципиальная
 
 [Parameter5]
-Name=Графа16
+Name=ТехнологДата
 Value=
 
 [Parameter6]
-Name=Графа19
-Value=
+Name=Технолог
+Value=Терехов
 
 [Parameter7]
-Name=Графа20
+Name=РазработалДата
 Value=
 
 [Parameter8]
-Name=Графа21
-Value=
+Name=Разработал
+Value=Валиуллин
 
 [Parameter9]
-Name=Графа22
+Name=ПроверилДата
 Value=
 
 [Parameter10]
-Name=Графа23
-Value=
+Name=Проверил
+Value=Кадыров
 
 [Parameter11]
-Name=Графа24
-Value=
+Name=ПервичноеПрименение
+Value=ВС01
 
 [Parameter12]
-Name=Графа28
-Value=
+Name=Обозначение2
+Value=="DesignName"+"-5"+"Revision"+"2"
 
 [Parameter13]
-Name=Графа29
-Value=
+Name=Обозначение1
+Value=="DesignName"+"-5"+"Revision"+"1"
 
 [Parameter14]
-Name=ДолжностьНачальникаОтдела
+Name=НормоконтрольДата
 Value=
 
 [Parameter15]
-Name=ИзвещениеДата
+Name=Нормоконтроль
 Value=
 
 [Parameter16]
-Name=Компания
-Value=Eleps
+Name=НачальникОтделаДата
+Value=
 
 [Parameter17]
-Name=Компания1
+Name=НачальникОтдела
 Value=
 
 [Parameter18]
-Name=Компания2
+Name=Наименование2
 Value=
 
 [Parameter19]
-Name=Литера1
-Value=A
+Name=Наименование1
+Value=
 
 [Parameter20]
-Name=Литера2
-Value=
+Name=Наименование
+Value=Плата лицевой панели
 
 [Parameter21]
-Name=Литера3
-Value=
+Name=Масштаб
+Value=1:1
 
 [Parameter22]
 Name=Масса
 Value=
 
 [Parameter23]
-Name=Масштаб
-Value=1:1
-
-[Parameter24]
-Name=Наименование
-Value=Плата лицевой панели
-
-[Parameter25]
-Name=Наименование1
+Name=Литера3
 Value=
 
+[Parameter24]
+Name=Литера2
+Value=
+
+[Parameter25]
+Name=Литера1
+Value=A
+
 [Parameter26]
-Name=Наименование2
+Name=Компания2
 Value=
 
 [Parameter27]
-Name=НачальникОтдела
+Name=Компания1
 Value=
 
 [Parameter28]
-Name=НачальникОтделаДата
-Value=
+Name=Компания
+Value=Eleps
 
 [Parameter29]
-Name=Нормоконтроль
+Name=ИзвещениеДата
 Value=
 
 [Parameter30]
-Name=НормоконтрольДата
+Name=ДолжностьНачальникаОтдела
 Value=
 
 [Parameter31]
-Name=Обозначение1
-Value=="DesignName"+"-5"+"Revision"+"1"
+Name=Графа29
+Value=
 
 [Parameter32]
-Name=Обозначение2
-Value=="DesignName"+"-5"+"Revision"+"2"
+Name=Графа28
+Value=
 
 [Parameter33]
-Name=ПервичноеПрименение
-Value=ВС01
+Name=Графа24
+Value=
 
 [Parameter34]
-Name=Проверил
-Value=Кадыров
+Name=Графа23
+Value=
 
 [Parameter35]
-Name=ПроверилДата
+Name=Графа22
 Value=
 
 [Parameter36]
-Name=Разработал
-Value=Валиуллин
+Name=Графа21
+Value=
 
 [Parameter37]
-Name=РазработалДата
+Name=Графа20
 Value=
 
 [Parameter38]
-Name=Технолог
-Value=Терехов
+Name=Графа19
+Value=
 
 [Parameter39]
-Name=ТехнологДата
+Name=Графа16
 Value=
 
 [Parameter40]
-Name=ТипДокумента1
-Value=Схема электрическая принципиальная
+Name=Графа15
+Value=
 
 [Parameter41]
-Name=ТипДокумента2
-Value=Монтажная схема
+Name=Графа14
+Value=
 
 [Parameter42]
-Name=Утвердил
-Value=Кадыров
+Name=Revision
+Value=1
 
 [Parameter43]
-Name=УтвердилДата
-Value=
+Name=DesignName
+Value=FP01-01
 
 [Configuration1]
 Name=Sources
